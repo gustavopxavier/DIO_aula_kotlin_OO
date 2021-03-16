@@ -1,6 +1,6 @@
 package one.digitalinnovation.digionebank
 
-//Classe pessoa
+//Criando classe pessoa
 class Pessoa {
     var nome: String = "Gustavo"
     var cpf: String = "123.123.123-12"
